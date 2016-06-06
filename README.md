@@ -1,15 +1,12 @@
+
 # git-skills
 ###git-skills
-let's make some changes.
-abcokay,
 
-let's make some noise~~~~
+new-dev
 
 
 
-1
 
-3
 
-5
 
+new README.me
