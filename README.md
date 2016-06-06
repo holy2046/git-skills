@@ -1,15 +1,9 @@
 # git-skills
-###git-skills
-let's make some changes.
-okay,
+@ABC git-skills
 
 let's make some noise~~~~
 
 
 
-1
-
-3
-
-5
+one, two, three GO!!!
 
